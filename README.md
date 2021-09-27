@@ -1,7 +1,7 @@
 # reddit-image-downloder
 
 
-[reddit logo](https://raw.githubusercontent.com/aminGhafoory/reddit-image-downloder/main/index.png)
+![reddit logo](https://raw.githubusercontent.com/aminGhafoory/reddit-image-downloder/main/index.png)
 
   
 
